@@ -3,10 +3,7 @@
 These are some links, gathered during desktop research:
 (I will later classify them further)
 
-
 # Hand-gestures:
-
-Webcam gestures:
 
 https://nhudinhtuan.github.io/jshg/
 https://medium.com/@muehler.v/simple-hand-gesture-recognition-using-opencv-and-javascript-eb3d6ced28a0
@@ -54,18 +51,18 @@ https://www.youtube.com/watch?v=kQxiFaZbOfA&list=PLijfWBfFEZLgF9eCl1HeudsCi2_e7D
 http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_colorspaces/py_colorspaces.html?highlight=hand
 https://blog.mozvr.com/experimenting-with-computer-vision-in-webxr/
 
-      Tracking.js :
-      https://trackingjs.com/docs.html#web-components
-      https://trackingjs.com/examples/color_draw_something.html
-      https://github.com/eduardolundgren/tracking.js/blob/master/examples/color_draw_something.html
-      https://github.com/eduardolundgren/tracking.js/tree/master/examples
-      https://trackingjs.com/examples/fast.html
-      http://tangiblejs.com/posts/tracking-color-blobs-in-webcam-feed-using-tracking-js
-      https://github.com/eduardolundgren/tracking.js/issues/99
+Tracking.js :
+https://trackingjs.com/docs.html#web-components
+https://trackingjs.com/examples/color_draw_something.html
+https://github.com/eduardolundgren/tracking.js/blob/master/examples/color_draw_something.html
+https://github.com/eduardolundgren/tracking.js/tree/master/examples
+https://trackingjs.com/examples/fast.html
+http://tangiblejs.com/posts/tracking-color-blobs-in-webcam-feed-using-tracking-js
+https://github.com/eduardolundgren/tracking.js/issues/99
 
-      Tensorflow :
-      https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f
-      https://github.com/timctho/convolutional-pose-machines-tensorflow
-      https://towardsdatascience.com/how-to-build-a-gesture-controlled-web-based-game-using-tensorflow-object-detection-api-587fb7e0f907
-      https://github.com/timctho/convolutional-pose-machines-tensorflow/tree/master/models/nets
-      https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5
+Tensorflow :
+https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f
+https://github.com/timctho/convolutional-pose-machines-tensorflow
+https://towardsdatascience.com/how-to-build-a-gesture-controlled-web-based-game-using-tensorflow-object-detection-api-587fb7e0f907
+https://github.com/timctho/convolutional-pose-machines-tensorflow/tree/master/models/nets
+https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5
